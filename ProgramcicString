@@ -36,5 +36,5 @@ int main()
         if (c=='K') break;
         else break;
     }
-    return 0;
+    return 0;//kraj programcica
 }
